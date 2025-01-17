@@ -1,0 +1,24 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de configuración de editores/IDE
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de variables de entorno
+.env
+
+# Archivos de base de datos
+*.sqlite
+
+# Archivos generados en el proceso de build o test
+/dist/
+/build/
+/coverage/
